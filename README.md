@@ -32,6 +32,12 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
         > 拦截器
         > 携带token
         PS:api可以统一放在store保存
+    - 深科技
+        > 文章列表
+        > 文章详细
+        > 文章评论
+        > 点赞
+        > 收藏
 > API
 > - 课程列表
 >     + 序列化：source = 'get_level_display'

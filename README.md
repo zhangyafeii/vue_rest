@@ -38,6 +38,8 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
         > 文章评论
         > 点赞
         > 收藏
+        > bug
+
 > API
 > - 课程列表
 >     + 序列化：source = 'get_level_display'

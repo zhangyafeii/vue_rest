@@ -37,6 +37,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
         > 文章详细
         > 文章评论
         > 点赞
+        > 收藏
     - 新功能3
 > API
 > - 课程列表
